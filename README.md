@@ -80,3 +80,5 @@ Uses:
 - Avoids the common problem of motion sensors turning lights OFF while user is still in room  
 - Combines **AI + IoT + Sensors**   
 - Future-ready and scalable 
+
+### Checkout project demo video: https://drive.google.com/file/d/1hM_M11JOiyb1mx3-qumbFjiDtRHgwtqn/view?usp=drive_link
